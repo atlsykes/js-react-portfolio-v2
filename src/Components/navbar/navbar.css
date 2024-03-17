@@ -1,0 +1,16 @@
+body {
+  background-color: #57f7fa;
+  margin-top: 5%;
+}
+
+img {
+  margin-bottom: 50%;
+}
+.nav-link {
+  color: #44e3ad !important;
+  font-size: x-large !important;
+}
+
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+}

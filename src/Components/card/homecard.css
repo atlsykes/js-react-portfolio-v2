@@ -1,0 +1,13 @@
+body {
+  background-color: #57f7fa;
+  margin: 5%;
+}
+
+h1 {
+  font-size: xx-large !important;
+}
+
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  color: #3274fe;
+}
