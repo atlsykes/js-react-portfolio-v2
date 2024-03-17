@@ -7,6 +7,12 @@ h1 {
   font-size: xx-large !important;
 }
 
+.footer-custom {
+  text-align: center;
+  margin-top: 5%;
+  font-family: "Press Start 2P", system-ui;
+}
+
 .press-start-2p-regular {
   font-family: "Press Start 2P", system-ui;
   color: #3274fe;
