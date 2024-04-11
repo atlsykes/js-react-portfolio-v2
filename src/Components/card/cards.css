@@ -7,10 +7,10 @@ h1 {
   font-size: xx-large !important;
 }
 
-.footer-custom {
-  text-align: center;
-  margin-top: 5%;
-  font-family: "Press Start 2P", system-ui;
+.card {
+}
+.card-gallery {
+  display: flex;
 }
 
 .press-start-2p-regular {

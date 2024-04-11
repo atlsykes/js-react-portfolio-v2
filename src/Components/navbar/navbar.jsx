@@ -1,6 +1,7 @@
 import React from "react";
 import "./navbar.css";
 import JASlogo from "../../Assets/JAS-circ-logo.png";
+//Navbar has to be integrated at the card level due to it's vertical nature
 
 const navbar = () => {
   return (
@@ -18,7 +19,7 @@ const navbar = () => {
                 ></img>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="/">
                   Home
                 </a>
               </li>
@@ -28,7 +29,7 @@ const navbar = () => {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="/portfolio">
                   Projects
                 </a>
               </li>
