@@ -8,7 +8,14 @@ h1 {
 }
 
 .card {
+  text-align: center;
+  border-radius: 10%;
 }
+
+.card-text {
+  text-align: left;
+}
+
 .card-gallery {
   display: flex;
 }
