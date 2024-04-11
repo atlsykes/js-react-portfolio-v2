@@ -1,5 +1,5 @@
 import React from "react";
-import "./home-card.css";
+import "./footer.css";
 
 const footer = () => {
   return (

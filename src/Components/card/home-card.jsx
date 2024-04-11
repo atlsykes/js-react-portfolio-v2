@@ -1,7 +1,6 @@
 import React from "react";
-import "./home-card.css";
+import "./cards.css";
 import Navbar from "../navbar/navbar";
-import Footer from "./footer";
 
 const homecard = () => {
   return (
@@ -37,9 +36,6 @@ const homecard = () => {
               </h1>
             </span>
           </div>
-        </div>
-        <div className="row">
-          <Footer />
         </div>
       </div>
     </div>
