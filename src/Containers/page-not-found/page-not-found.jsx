@@ -1,5 +1,5 @@
 import React from "react";
-import CHimage from "../../Assets/C&H_poised_downhill-image.png";
+import CHimage from "../../Assets/Images/C&H_poised_downhill-image.png";
 import { HomeIcon } from "@primer/octicons-react";
 
 const pageNotFound = () => {

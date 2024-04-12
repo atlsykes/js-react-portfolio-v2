@@ -1,13 +1,13 @@
 import React from "react";
 import "./cards.css";
-import TestImage from "../../Assets/test-card-image.jpeg";
+import TestImage from "../../Assets/Images/test-card-image.jpeg";
 
 const portfoliocard = (props) => {
   return (
     <div>
       <div className="m-4">
         <div className="card" style={{ width: "18rem" }} id={props}>
-          <img src={TestImage} class="card-img-top" alt="test image" />
+          <img src={TestImage} class="card-img-top" alt="test screen" />
           <div class="card-body">
             <p class="card-text">
               Some quick example text to build on the card title and make up the
