@@ -1,11 +1,11 @@
-import React, { useState } from "react";
+import React from "react";
 import Portfoliocard from "../../Components/card/portfolio-card";
 import Navbar from "../../Components/navbar/navbar";
-const cardArrayOne = [1, 2, 3];
-const cardArrayTwo = [1, 2, 3];
-let j = 0;
+import projects from "../../projects.json";
+const project = projects.elements;
 
-const portfolio = (cards) => {
+const portfolio = () => {
+  // const [cardData, setCardData] = useState([]);
   return (
     <div>
       <div className="row">
@@ -15,13 +15,16 @@ const portfolio = (cards) => {
         <div className="col-md-10">
           <div className="container">
             <div className="card-gallery">
-              {cardArrayOne.map((card) => (
-                <Portfoliocard key={card.id} />
-              ))}
-            </div>
-            <div className="card-gallery">
-              {cardArrayTwo.map((card) => (
-                <Portfoliocard key={card.id} />
+              {/*dynamically render cards with projects.json data*/}
+              {project.map((proj) => (
+                <Portfoliocard
+                  key={proj.id}
+                  title={proj.title}
+                  image={proj.image}
+                  description={proj.description}
+                  GH={proj.GH}
+                  deploy={proj.deploy}
+                />
               ))}
             </div>
           </div>

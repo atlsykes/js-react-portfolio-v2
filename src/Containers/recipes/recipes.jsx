@@ -1,9 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import Recipecard from "../../Components/card/recipe-card";
 import Navbar from "../../Components/navbar/navbar";
 const cardArrayOne = [1, 2, 3];
 const cardArrayTwo = [1, 2, 3];
-let j = 0;
 
 const recipes = (cards) => {
   return (

@@ -1,0 +1,28 @@
+{
+  "elements": [
+    {
+      "id": 0,
+      "title": "Flashcardz",
+      "image": "Flashcardz-screenshot.png",
+      "description": "Flash card web app that I created out of boredom to help with studying for the AWS Cloud Practitioner Certification Exam.",
+      "GH": "https://github.com/atlsykes/flashcardz",
+      "deploy": "https://atlsykes.github.io/flashcardz/"
+    },
+    {
+      "id": 1,
+      "title": "A Weather Dashboard",
+      "image": "my-work-day-scheduler-screenshot1.png",
+      "description": "This is a weather dashboard that displays both the current weather and the 5 day forecast for a selected city. For each city search, a search history is generated as new buttons below the input field.",
+      "GH": "https://github.com/atlsykes/a-weather-dashboard",
+      "deploy": "https://atlsykes.github.io/a-weather-dashboard"
+    },
+    {
+      "id": 2,
+      "title": "ONE OF A KIND CONTRACTORS LLC website",
+      "image": "1ofakindcontractors-screenshot.png",
+      "description": "React based website for a client.",
+      "GH": "https://github.com/atlsykes/1ofakindcontractors",
+      "deploy": "https://atlsykes.github.io/1ofakindcontractors/"
+    }
+  ]
+}
