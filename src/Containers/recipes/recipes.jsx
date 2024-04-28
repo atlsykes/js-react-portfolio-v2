@@ -1,30 +1,23 @@
 import React from "react";
 import Recipecard from "../../Components/card/recipe-card";
 import Navbar from "../../Components/navbar/navbar";
-const cardArrayOne = [1, 2, 3];
-const cardArrayTwo = [1, 2, 3];
+import "./recipes.css";
 
-const recipes = (cards) => {
+const recipes = () => {
   return (
     <div>
       <div className="row">
         <div className="col">
           <Navbar />
         </div>
-        <div className="col-md-10">
+        <div className="col-3">
           <div className="container">
-            <div className="card-gallery">
-              {cardArrayOne.map((card) => (
-                <Recipecard key={card.id} />
-              ))}
-            </div>
-            <div className="card-gallery">
-              {cardArrayTwo.map((card) => (
-                <Recipecard key={card.id} />
-              ))}
+            <div className="recipe-container">
+              <Recipecard />
             </div>
           </div>
         </div>
+        <div className="col-4"></div>
       </div>
     </div>
   );

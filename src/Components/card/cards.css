@@ -24,6 +24,10 @@ h1 {
   display: flex;
 }
 
+.modal-body {
+  text-align: left;
+}
+
 .press-start-2p-regular {
   font-family: "Press Start 2P", system-ui;
   color: #3274fe;
