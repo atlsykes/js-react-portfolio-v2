@@ -2,6 +2,7 @@ import React from "react";
 import Portfoliocard from "../../Components/card/portfolio-card";
 import Navbar from "../../Components/navbar/navbar";
 import projects from "../../projects.json";
+import PitfallGameImage from "../../Assets/Images/Pitfall-Tout_A.png";
 const project = projects.elements;
 
 const portfolio = () => {
@@ -12,7 +13,7 @@ const portfolio = () => {
         <div className="col">
           <Navbar />
         </div>
-        <div className="col-md-10">
+        <div className="col-md-9">
           <div className="container">
             <div className="card-gallery">
               {/*dynamically render cards with projects.json data*/}
@@ -27,6 +28,9 @@ const portfolio = () => {
                 />
               ))}
             </div>
+          </div>
+          <div className="row">
+            <img src={PitfallGameImage} height="300" />
           </div>
         </div>
       </div>

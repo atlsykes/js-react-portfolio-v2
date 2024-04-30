@@ -7,6 +7,11 @@ body {
   margin: 5%;
 }
 
+button {
+  font-size: x-large;
+  font-weight: bold;
+}
+
 h1 {
   font-size: xx-large !important;
 }
@@ -24,6 +29,9 @@ h1 {
   display: flex;
 }
 
+.img-row {
+  margin-top: 50%;
+}
 .modal-body {
   text-align: left;
 }
