@@ -42,7 +42,7 @@ const Recipecard = () => {
         <div class="list-group" width="50 rem">
           <button
             type="button"
-            class="list-group-item list-group-item-action"
+            class="list-group-item list-group-item-action list-group-item-info"
             data-bs-toggle="modal"
             data-bs-target="#recipeCardModal"
             onClick={() => {
@@ -54,7 +54,7 @@ const Recipecard = () => {
           </button>
           <button
             type="button"
-            class="list-group-item list-group-item-action"
+            class="list-group-item list-group-item-action list-group-item-info"
             data-bs-toggle="modal"
             data-bs-target="#recipeCardModal"
             onClick={() => {
@@ -66,7 +66,7 @@ const Recipecard = () => {
           </button>
           <button
             type="button"
-            class="list-group-item list-group-item-action"
+            class="list-group-item list-group-item-action list-group-item-info"
             data-bs-toggle="modal"
             data-bs-target="#recipeCardModal"
             onClick={() => {
@@ -78,7 +78,7 @@ const Recipecard = () => {
           </button>
           <button
             type="button"
-            class="list-group-item list-group-item-action"
+            class="list-group-item list-group-item-action list-group-item-info"
             data-bs-toggle="modal"
             data-bs-target="#recipeCardModal"
             onClick={() => {
@@ -90,7 +90,7 @@ const Recipecard = () => {
           </button>
           <button
             type="button"
-            class="list-group-item list-group-item-action"
+            class="list-group-item list-group-item-action list-group-item-info"
             data-bs-toggle="modal"
             data-bs-target="#recipeCardModal"
             onClick={() => {
@@ -102,7 +102,7 @@ const Recipecard = () => {
           </button>
           <button
             type="button"
-            class="list-group-item list-group-item-action"
+            class="list-group-item list-group-item-action list-group-item-info"
             data-bs-toggle="modal"
             data-bs-target="#recipeCardModal"
             onClick={() => {
@@ -114,7 +114,7 @@ const Recipecard = () => {
           </button>
           <button
             type="button"
-            class="list-group-item list-group-item-action"
+            class="list-group-item list-group-item-action list-group-item-info"
             data-bs-toggle="modal"
             data-bs-target="#recipeCardModal"
             onClick={() => {
@@ -126,7 +126,7 @@ const Recipecard = () => {
           </button>
           <button
             type="button"
-            class="list-group-item list-group-item-action"
+            class="list-group-item list-group-item-action list-group-item-info"
             data-bs-toggle="modal"
             data-bs-target="#recipeCardModal"
             onClick={() => {
@@ -138,7 +138,7 @@ const Recipecard = () => {
           </button>
           <button
             type="button"
-            class="list-group-item list-group-item-action"
+            class="list-group-item list-group-item-action list-group-item-info"
             data-bs-toggle="modal"
             data-bs-target="#recipeCardModal"
             onClick={() => {

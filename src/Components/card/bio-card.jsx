@@ -1,6 +1,8 @@
 import React from "react";
 import "./cards.css";
 import Navbar from "../navbar/navbar";
+import SteelersLogo from "../../Assets/Images/steelers-logo-1.png";
+import PickeballIcon from "../../Assets/Images/pickball-icon.png";
 
 const biocard = () => {
   return (
@@ -9,8 +11,18 @@ const biocard = () => {
         <div class="row">
           <div class="col-2">
             <Navbar />
+            <div className="img-row">
+              <img src={SteelersLogo} width="220" height="220" />
+            </div>
           </div>
           <div class="col-10">
+            <img
+              src={PickeballIcon}
+              ALIGN="right"
+              HSPACE="10"
+              width="220"
+              height="220"
+            />
             <span className="press-start-2p-regular">
               <p>
                 CORE COMPETENCIES: Servant Leadership | Agile Team Management |
