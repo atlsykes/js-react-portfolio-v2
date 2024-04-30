@@ -1,6 +1,6 @@
 import React from "react";
 import "./navbar.css";
-import JASlogo from "../../Assets/Images/JAS-circ-logo.png";
+import JASlogo from "../../Assets/Images/JAS-circ-logo-1.png";
 //Navbar has to be integrated at the card level due to it's vertical nature
 
 const navbar = () => {
