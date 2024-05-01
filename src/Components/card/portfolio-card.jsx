@@ -8,7 +8,7 @@ const portfoliocard = (props) => {
   return (
     <div>
       <div className="m-4">
-        <div className="card" style={{ width: "18rem" }} id={props.id}>
+        <div className="card" style={{ width: "20rem" }} id={props.id}>
           <img
             src={`/images/${props.image}`}
             class="card-img-top"
