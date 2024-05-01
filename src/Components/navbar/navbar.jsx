@@ -16,6 +16,7 @@ const navbar = () => {
                   alt="JAS circular logo"
                   width="180"
                   height="180"
+                  style={{ marginBottom: "50%" }}
                 ></img>
               </li>
               <li class="nav-item">
