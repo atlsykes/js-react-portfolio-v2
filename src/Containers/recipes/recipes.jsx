@@ -8,10 +8,10 @@ const recipes = () => {
   return (
     <div>
       <div className="row">
-        <div className="col">
+        <div className="col-3">
           <Navbar />
         </div>
-        <div className="col-9">
+        <div className="col-sm-9">
           <div className="container-flex">
             <div className="container">
               <div className="recipe-container">
@@ -22,7 +22,11 @@ const recipes = () => {
             </div>
           </div>
           <div className="row">
-            <img src={BurgertimeGameImage} height="300" />
+            <img
+              src={BurgertimeGameImage}
+              height="300"
+              alt="Burgertime video game screenshot"
+            />
           </div>
         </div>
       </div>

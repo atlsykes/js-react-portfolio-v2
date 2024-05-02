@@ -11,7 +11,7 @@
     {
       "id": 1,
       "title": "A Weather Dashboard",
-      "image": "my-work-day-scheduler-screenshot1.png",
+      "image": "Weather-dashboard-screenshot.png",
       "description": "This is a weather dashboard that displays both the current weather and the 5 day forecast for a selected city. For each city search, a search history is generated as new buttons below the input field.",
       "GH": "https://github.com/atlsykes/a-weather-dashboard",
       "deploy": "https://atlsykes.github.io/a-weather-dashboard"

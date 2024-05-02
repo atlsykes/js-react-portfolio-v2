@@ -9,19 +9,27 @@ const biocard = () => {
     <div>
       <div class="container-flex">
         <div class="row">
-          <div class="col-2">
+          <div class="col-3">
             <Navbar />
             <div className="img-row">
-              <img src={SteelersLogo} width="220" height="220" />
+              <img
+                src={SteelersLogo}
+                alt="Steelers football logo"
+                width="200"
+                height="200"
+                class="d-none d-sm-block"
+              />
             </div>
           </div>
-          <div class="col-10">
+          <div class="col-sm-9">
             <img
               src={PickeballIcon}
+              alt="Pickleball black & white icon"
               ALIGN="right"
               HSPACE="10"
               width="220"
               height="220"
+              class="d-none d-sm-block"
             />
             <span className="press-start-2p-regular">
               <p>

@@ -9,12 +9,12 @@ const portfolio = () => {
   // const [cardData, setCardData] = useState([]);
   return (
     <div>
-      <div className="row">
-        <div className="col">
-          <Navbar />
-        </div>
-        <div className="col-md-9">
-          <div className="container">
+      <div class="container-flex">
+        <div className="row">
+          <div className="col-3">
+            <Navbar />
+          </div>
+          <div className="col-md-9">
             <div className="card-gallery">
               {/*dynamically render cards with projects.json data*/}
               {project.map((proj) => (
@@ -30,7 +30,12 @@ const portfolio = () => {
             </div>
           </div>
           <div className="row">
-            <img src={PitfallGameImage} height="300" />
+            <img
+              src={PitfallGameImage}
+              height="300"
+              class="img-fluid"
+              alt="Pitfall video game screenshot"
+            />
           </div>
         </div>
       </div>

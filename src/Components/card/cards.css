@@ -13,23 +13,28 @@ button {
 }
 
 h1 {
-  font-size: xx-large !important;
+  font-size: 2vw;
 }
 
+p {
+  font-size: 1.5vw;
+}
 .card {
   text-align: center;
+  margin-bottom: 10%;
 }
 
 .card-text {
   text-align: left;
 }
 
-.card-gallery {
+/* .card-gallery {
   display: flex;
-}
+} */
 
 .img-row {
   margin-top: 50%;
+  margin-bottom: 10%;
 }
 .modal-body {
   text-align: left;
