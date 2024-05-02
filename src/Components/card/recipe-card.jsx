@@ -6,8 +6,8 @@ const recipe = recipesList.elements;
 let listOne = [];
 let listTwo = [];
 let card = 0;
-const myModal = document.getElementById("myModal");
-const myInput = document.getElementById("myInput");
+// const myModal = document.getElementById("myModal");
+// const myInput = document.getElementById("myInput");
 
 const Recipecard = () => {
   const [currentCardIL, setCardIL] = useState([]);
@@ -162,7 +162,7 @@ const Recipecard = () => {
           <div class="modal-dialog modal-xl">
             <div class="modal-content">
               <div class="modal-header">
-                <h1 class="modal-title fs-8" id="recipeCardModal">
+                <h1 class="modal-title fs-1" id="recipeCardModal">
                   {recipe[card].title}
                 </h1>
                 <button

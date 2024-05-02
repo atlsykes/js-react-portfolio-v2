@@ -12,11 +12,21 @@ const homecard = () => {
           <div class="col-3">
             <Navbar />
             <div className="img-row">
-              <img src={JASNASphoto} />
+              <img
+                src={JASNASphoto}
+                alt="8-bit photo of Justin and son Nathan"
+                class="d-none d-sm-block"
+              />
             </div>
           </div>
-          <div class="col-9">
-            <img src={ThiefBoxArt} ALIGN="right" HSPACE="10" />
+          <div class="col-sm-9">
+            <img
+              src={ThiefBoxArt}
+              alt="Thief video game box art"
+              ALIGN="right"
+              HSPACE="10"
+              class="d-none d-sm-block"
+            />
             <span className="press-start-2p-regular">
               <h1>
                 <p>

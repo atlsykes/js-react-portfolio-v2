@@ -5,8 +5,8 @@ import { HomeIcon } from "@primer/octicons-react";
 const pageNotFound = () => {
   return (
     <div>
-      <h1>
-        UH-OH ... Page not found!!!
+      <h1 className="press-start-2p-regular">
+        UH-OH ... PAGE NOT FOUND!!!
         <br />
         <br />
         <a href="/#">
@@ -19,6 +19,7 @@ const pageNotFound = () => {
           alt="Calvin & Hobbs racing downhill in a red wagon"
           width="1000"
           height="600"
+          className="img-fluid"
         />
       </h1>
     </div>
