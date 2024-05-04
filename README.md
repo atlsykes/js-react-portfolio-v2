@@ -1,6 +1,6 @@
 # Justin-Sykes-React-Portfolio-V2
 
-![JAS-circ-logo](./public/JAS-circ-logo-1.png)
+<img src="./public/JAS-circ-logo-1.png" height="100" width="100">
 
 Copyright (C) 2024 Justin Sykes - All Rights Reserved
 
