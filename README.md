@@ -1,34 +1,10 @@
 # Justin-Sykes-React-Portfolio-V2
 
-![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
-![react favicon](./public/react-favicon.ico)
+![JAS-circ-logo](./public/JAS-circ-logo-1.png)
 
-## License
+Copyright (C) 2024 Justin Sykes - All Rights Reserved
 
-MIT
+Restricted License:
+Unauthorized copying of this Git Hub repository, https://github.com/atlsykes/js-react-portfolio-v2, and/or its contents, via any medium is strictly prohibited.
 
-Copyright (c) [2024] Justin Sykes
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-## Contributions
-
-- React library (https://reactjs.org/)
-- Node JS runtime (https://nodejs.org/en/)
-- NPM packages: gh-pages (https://www.npmjs.com/package/gh-pages), react (https://www.npmjs.com/package/react), react-router-DOM (https://www.npmjs.com/package/react-router-dom)
+**_Proprietary_**
