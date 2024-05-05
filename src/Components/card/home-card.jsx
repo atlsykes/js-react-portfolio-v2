@@ -29,27 +29,40 @@ const homecard = () => {
             />
             <span className="press-start-2p-regular">
               <h1>
+                <p>Hey there, fellow 80s aficionados!</p>
                 <p>
-                  I’m a child of the 80’s… and yes, feel free to use my recipes
-                  as well.
+                  I'm rooted in the charming community of Mechanicsville, VA,
+                  where I share life's adventures with my lovely wife and our
+                  amazing son. In my journey through technology and business, I
+                  bring a unique blend of old-school vibes and forward-thinking
+                  strategies.
                 </p>
                 <p>
-                  <i>Impactful Agile Methodologies Professional</i> with
-                  extensive experience working with software development teams.
-                  Highly skilled in IIOT power generation and possesses a strong
-                  background in solutions. Expert in new (software) product
-                  development, agile training and coaching.
+                  <i>Full-Stack Web Developer</i>
+                  <br />
+                  With a Master of Science degree in Technology Management and a
+                  wealth of experience coaching agile teams, my path has been a
+                  mix of innovation and growth. In the professional arena, I
+                  wield the skills of a full stack web developer, specializing
+                  in the MERN technology stack. Whether it's crafting seamless
+                  user experiences or fine-tuning backend performance, I thrive
+                  on the challenges and rewards of building robust web
+                  applications from the ground up.
                 </p>
                 <p>
-                  Adept at team building, collaborating, and demonstrating
-                  empathy. Savvy in a broad range of technologies including full
-                  stack web development at a junior developer level. Recognized
-                  among team members as being empathetic, supportive, flexible,
-                  articulate, and detail oriented.
+                  I am also adept at agile development team building,
+                  collaborating, and demonstrating empathy. I have been
+                  recognized among team members and co-workers as being
+                  empathetic, supportive, flexible, articulate, and detail
+                  oriented.
                 </p>
                 <p>
-                  I’m an avid Steelers fan and pickleball player. My favorite
-                  video game of all time! {">>"} Thief - The Dark Project.
+                  Beyond the desk, you'll often find me on the pickleball court,
+                  honing my skills and enjoying the game at least four times a
+                  week around RVA. I’m also avid Steelers fan who lives and
+                  breathes the black and gold. My favorite video game of all
+                  time is a the timeless classic: Thief - The Dark Project and
+                  continue to play fan made missions to this day.
                 </p>
               </h1>
             </span>
