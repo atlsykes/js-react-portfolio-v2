@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/js-react-portfolio-v2/static/css/main.8957d76b.css",
+    "main.js": "/js-react-portfolio-v2/static/js/main.4fda41f3.js",
+    "static/js/592.d143e1c8.chunk.js": "/js-react-portfolio-v2/static/js/592.d143e1c8.chunk.js",
+    "static/media/JAS-circ-logo-1.png": "/js-react-portfolio-v2/static/media/JAS-circ-logo-1.93c1ef982e26863fee42.png",
+    "static/media/Pitfall-Tout_A.png": "/js-react-portfolio-v2/static/media/Pitfall-Tout_A.2316039367e9735fb93f.png",
+    "static/media/steelers-logo-1.png": "/js-react-portfolio-v2/static/media/steelers-logo-1.4ff0b11c68a367d9eab3.png",
+    "static/media/JAS-NAS-8bit-photo.png": "/js-react-portfolio-v2/static/media/JAS-NAS-8bit-photo.ba4b1b3b9bcacc0376bb.png",
+    "static/media/Thief-box-art-1.png": "/js-react-portfolio-v2/static/media/Thief-box-art-1.ad6ca9bb7c2f7c8b7ad3.png",
+    "static/media/burgertime-game-image-1.png": "/js-react-portfolio-v2/static/media/burgertime-game-image-1.0252b4e9ee78bc86ff1b.png",
+    "static/media/pickball-icon.png": "/js-react-portfolio-v2/static/media/pickball-icon.03498337ebb5bd51dc4e.png",
+    "static/media/C&H_poised_downhill-image.png": "/js-react-portfolio-v2/static/media/C&H_poised_downhill-image.826abf54a931b2d22b3a.png",
+    "index.html": "/js-react-portfolio-v2/index.html",
+    "main.8957d76b.css.map": "/js-react-portfolio-v2/static/css/main.8957d76b.css.map",
+    "main.4fda41f3.js.map": "/js-react-portfolio-v2/static/js/main.4fda41f3.js.map",
+    "592.d143e1c8.chunk.js.map": "/js-react-portfolio-v2/static/js/592.d143e1c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8957d76b.css",
+    "static/js/main.4fda41f3.js"
+  ]
+}
