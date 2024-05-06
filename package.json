@@ -1,6 +1,7 @@
 {
   "name": "js-react-portfolio-v2",
   "version": "0.1.0",
+  "homepage": "https://atlsykes.github.io/js-react-portfolio-v2/",
   "private": true,
   "dependencies": {
     "@primer/octicons-react": "^19.9.0",
