@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/js-react-portfolio-v2/static/css/main.8957d76b.css",
-    "main.js": "/js-react-portfolio-v2/static/js/main.bc67d0da.js",
+    "main.css": "/js-react-portfolio-v2/static/css/main.346d6681.css",
+    "main.js": "/js-react-portfolio-v2/static/js/main.ef663c6b.js",
     "static/js/592.d143e1c8.chunk.js": "/js-react-portfolio-v2/static/js/592.d143e1c8.chunk.js",
+    "static/media/Weather-dashboard-screenshot.png": "/js-react-portfolio-v2/static/media/Weather-dashboard-screenshot.33cadb4762efff41ff84.png",
     "static/media/JAS-circ-logo-1.png": "/js-react-portfolio-v2/static/media/JAS-circ-logo-1.93c1ef982e26863fee42.png",
     "static/media/Pitfall-Tout_A.png": "/js-react-portfolio-v2/static/media/Pitfall-Tout_A.2316039367e9735fb93f.png",
     "static/media/steelers-logo-1.png": "/js-react-portfolio-v2/static/media/steelers-logo-1.4ff0b11c68a367d9eab3.png",
     "static/media/JAS-NAS-8bit-photo.png": "/js-react-portfolio-v2/static/media/JAS-NAS-8bit-photo.ba4b1b3b9bcacc0376bb.png",
     "static/media/Thief-box-art-1.png": "/js-react-portfolio-v2/static/media/Thief-box-art-1.ad6ca9bb7c2f7c8b7ad3.png",
     "static/media/burgertime-game-image-1.png": "/js-react-portfolio-v2/static/media/burgertime-game-image-1.0252b4e9ee78bc86ff1b.png",
+    "static/media/1ofakindcontractors-screenshot.png": "/js-react-portfolio-v2/static/media/1ofakindcontractors-screenshot.b07960ba732b03ddd792.png",
+    "static/media/Flashcardz-screenshot.png": "/js-react-portfolio-v2/static/media/Flashcardz-screenshot.75c99dfb95e4aeb15268.png",
     "static/media/pickball-icon.png": "/js-react-portfolio-v2/static/media/pickball-icon.03498337ebb5bd51dc4e.png",
     "static/media/C&H_poised_downhill-image.png": "/js-react-portfolio-v2/static/media/C&H_poised_downhill-image.826abf54a931b2d22b3a.png",
+    "static/media/test-card-image.jpeg": "/js-react-portfolio-v2/static/media/test-card-image.e7e5d5b8ddeddf34e0e1.jpeg",
     "index.html": "/js-react-portfolio-v2/index.html",
-    "main.8957d76b.css.map": "/js-react-portfolio-v2/static/css/main.8957d76b.css.map",
-    "main.bc67d0da.js.map": "/js-react-portfolio-v2/static/js/main.bc67d0da.js.map",
+    "main.346d6681.css.map": "/js-react-portfolio-v2/static/css/main.346d6681.css.map",
+    "main.ef663c6b.js.map": "/js-react-portfolio-v2/static/js/main.ef663c6b.js.map",
     "592.d143e1c8.chunk.js.map": "/js-react-portfolio-v2/static/js/592.d143e1c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8957d76b.css",
-    "static/js/main.bc67d0da.js"
+    "static/css/main.346d6681.css",
+    "static/js/main.ef663c6b.js"
   ]
 }
