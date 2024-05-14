@@ -4,12 +4,11 @@ import { MarkGithubIcon } from "@primer/octicons-react";
 import { RocketIcon } from "@primer/octicons-react";
 
 const portfoliocard = (props) => {
-  console.log(props.image);
   return (
     <div>
       <div className="card" style={{ width: "22rem" }} id={props.id}>
         <img
-          src={`/images/${props.image}`}
+          src={require(`../../Assets/Images/${props.image}`)}
           class="card-img-top"
           alt="test screen"
         />

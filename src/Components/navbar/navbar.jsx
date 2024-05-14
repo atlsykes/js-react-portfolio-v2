@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./navbar.css";
 import JASlogo from "../../Assets/Images/JAS-circ-logo-1.png";
 //Navbar has to be integrated at the card level due to it's vertical nature
@@ -20,24 +21,16 @@ const navbar = () => {
                 ></img>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/">
-                  Home
-                </a>
+                <Link to="/">Home</Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/bio">
-                  Bio
-                </a>
+                <Link to="/bio">Bio</Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/portfolio">
-                  Projects
-                </a>
+                <Link to="/portfolio">Projects</Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/recipes">
-                  Recipes
-                </a>
+                <Link to="/recipes">Recipes</Link>
               </li>
             </ul>
           </span>
