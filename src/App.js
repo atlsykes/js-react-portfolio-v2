@@ -21,7 +21,7 @@ function App() {
         </Routes>
       </div>
       <div className="row">
-        <Footer />
+        <Footer role="contentinfo" />
       </div>
     </>
   );

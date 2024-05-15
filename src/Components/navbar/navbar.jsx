@@ -21,16 +21,24 @@ const navbar = () => {
                 ></img>
               </li>
               <li class="nav-item">
-                <Link to="/">Home</Link>
+                <Link to="/" role="navigation">
+                  Home
+                </Link>
               </li>
               <li class="nav-item">
-                <Link to="/bio">Bio</Link>
+                <Link to="/bio" role="navigation">
+                  Bio
+                </Link>
               </li>
               <li class="nav-item">
-                <Link to="/portfolio">Projects</Link>
+                <Link to="/portfolio" role="navigation">
+                  Projects
+                </Link>
               </li>
               <li class="nav-item">
-                <Link to="/recipes">Recipes</Link>
+                <Link to="/recipes" role="navigation">
+                  Recipes
+                </Link>
               </li>
             </ul>
           </span>
