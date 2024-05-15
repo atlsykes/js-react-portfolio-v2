@@ -13,7 +13,7 @@ const homecard = () => {
             <Navbar />
             <div className="img-row">
               <img
-                src={JASNASphoto}
+                src={ThiefBoxArt}
                 alt="8-bit photo of Justin and son Nathan"
                 class="d-none d-sm-block"
               />
@@ -21,7 +21,7 @@ const homecard = () => {
           </div>
           <div class="col-sm-9">
             <img
-              src={ThiefBoxArt}
+              src={JASNASphoto}
               alt="Thief video game box art"
               ALIGN="right"
               HSPACE="10"
