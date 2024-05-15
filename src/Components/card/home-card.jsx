@@ -14,7 +14,7 @@ const homecard = () => {
             <div className="img-row">
               <img
                 src={ThiefBoxArt}
-                alt="8-bit of Justin and son Nathan"
+                alt="Thief video game box art"
                 class="d-none d-sm-block"
               />
             </div>
@@ -22,12 +22,12 @@ const homecard = () => {
           <div class="col-sm-9">
             <img
               src={JASNASphoto}
-              alt="Thief video game box art"
+              alt="8-bit of Justin and son Nathan"
               ALIGN="right"
               class="d-none d-sm-block"
             />
             <span className="press-start-2p-regular">
-              <h1>
+              <section>
                 <p>Hey there, fellow 80s aficionados!</p>
                 <p>
                   I'm rooted in the charming community of Mechanicsville, VA,
@@ -36,6 +36,7 @@ const homecard = () => {
                   bring a unique blend of old-school vibes and forward-thinking
                   strategies.
                 </p>
+
                 <p>
                   <i>Full-Stack Web Developer</i>
                   <br />
@@ -63,7 +64,7 @@ const homecard = () => {
                   time is a the timeless classic: Thief - The Dark Project and
                   continue to play fan made missions to this day.
                 </p>
-              </h1>
+              </section>
             </span>
           </div>
         </div>

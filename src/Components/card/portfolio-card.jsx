@@ -10,7 +10,7 @@ const portfoliocard = (props) => {
         <img
           src={require(`../../Assets/Images/${props.image}`)}
           class="card-img-top"
-          alt="test screen"
+          alt="web app screenshot"
         />
         <div class="card-body">
           <h1 class="card-title">{props.title}</h1>
