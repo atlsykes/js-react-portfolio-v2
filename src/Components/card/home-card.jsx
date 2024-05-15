@@ -14,7 +14,7 @@ const homecard = () => {
             <div className="img-row">
               <img
                 src={ThiefBoxArt}
-                alt="8-bit photo of Justin and son Nathan"
+                alt="8-bit of Justin and son Nathan"
                 class="d-none d-sm-block"
               />
             </div>
@@ -24,7 +24,6 @@ const homecard = () => {
               src={JASNASphoto}
               alt="Thief video game box art"
               ALIGN="right"
-              HSPACE="10"
               class="d-none d-sm-block"
             />
             <span className="press-start-2p-regular">

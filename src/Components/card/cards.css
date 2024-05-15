@@ -17,7 +17,7 @@ h1 {
 }
 
 p {
-  font-size: 1.5vw;
+  font-size: 2.25vw;
 }
 .card {
   text-align: center;
@@ -43,4 +43,8 @@ p {
 .press-start-2p-regular {
   font-family: "Press Start 2P", system-ui;
   color: #3274fe;
+}
+
+#closeButton {
+  margin-left: auto;
 }

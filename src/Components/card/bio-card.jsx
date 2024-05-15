@@ -33,16 +33,16 @@ const biocard = () => {
             />
             <span className="press-start-2p-regular">
               <p>
-                CORE COMPETENCIES: Servant Leadership | Agile Team Management |
-                Agile Training & Coaching | New Product (Software) Development
+                CORE COMPETENCIES: Full-Stack Web Development | Agile Training &
+                Coaching | New Product (Software) Development
                 <br />
                 <br />
                 CORPORATE EXPERIENCE:
                 <br />
                 <ul>
                   <li>
-                    MOLINA HEALTHCARE, Mechanicsville, VA, 2023 - Present -
-                    Senior Scrum Master
+                    MOLINA HEALTHCARE, Mechanicsville, VA, 2023 - 2024 - Senior
+                    Scrum Master
                   </li>
                   <li>
                     CAPITAL ONE, Richmond, VA, 2021 - 2023 - Principal Agile

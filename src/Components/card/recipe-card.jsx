@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./cards.css";
 import recipesList from "../../recipes.json";
+import NoSleep from "nosleep.js";
 const recipe = recipesList.elements;
 // listOne = ingredients list & listTwo = steps list
 let listOne = [];
@@ -8,10 +9,13 @@ let listTwo = [];
 let card = 0;
 // const myModal = document.getElementById("myModal");
 // const myInput = document.getElementById("myInput");
+let noSleep = new NoSleep();
+let wakeLockEnabled = false;
 
 const Recipecard = () => {
   const [currentCardIL, setCardIL] = useState([]);
   const [currentCardSL, setCardSL] = useState([]);
+  // const [wakeLockEnabled, setWakeLockEnabled] = useState([false]);
   //After passing card number to this function, build 2 lists: ingredients list & steps list to
   //be rendered in the respective location in the modal
   const buildList = (cardNumber) => {
@@ -180,10 +184,33 @@ const Recipecard = () => {
                 <ol>{currentCardSL}</ol>
               </div>
               <div class="modal-footer">
+                {/* Toggle switch to prevent mobile display from timing out. */}
+                <div class="form-check form-switch">
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="noSleepToggle"
+                    onChange={() => {
+                      if (!wakeLockEnabled) {
+                        noSleep.enable(); // keep the screen on!
+                        wakeLockEnabled = true;
+                      } else {
+                        noSleep.disable(); // let the screen turn off.
+                        wakeLockEnabled = false;
+                      }
+                      console.log(wakeLockEnabled);
+                    }}
+                  />
+                  <label class="form-check-label" for="noSleepToggle">
+                    Enable no sleep mode (mobile devices)
+                  </label>
+                </div>
                 <button
                   type="button"
                   class="btn btn-secondary"
                   data-bs-dismiss="modal"
+                  id="closeButton"
                 >
                   Close
                 </button>
