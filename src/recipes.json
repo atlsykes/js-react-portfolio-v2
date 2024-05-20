@@ -361,6 +361,46 @@
       ]
     },
     {
+      "id": 9,
+      "title": "Lomo Saltado",
+      "ingredientsList": [
+        { "iid": 1, "text": "2 tbsp vegetable oil" },
+        {
+          "iid": 2,
+          "text": "1 lb beef tenderloin or sirloin, sliced into thin strips"
+        },
+        { "iid": 3, "text": "1 red onion, cut into thin wedges" },
+        { "iid": 4, "text": "2 medium tomatoes, cut into wedges" },
+        { "iid": 5, "text": "1/4 cup soy sauce" },
+        { "iid": 6, "text": "2 tbsp red wine vinegar" },
+        { "iid": 7, "text": "2 tbsp cilantro, chopped" },
+        { "iid": 8, "text": "1 tsp ground cumin" },
+        { "iid": 9, "text": "3 cloves garlic, minced" },
+        {
+          "iid": 10,
+          "text": "1 aji amarillo pepper, stemmed, seeded and minced"
+        },
+        { "iid": 11, "text": "salt and pepper to taste" },
+        { "iid": 12, "text": "2 cups of cooked white rice, for serving" },
+        { "iid": 13, "text": "2 cups of cooked french fries, for serving" },
+        { "iid": 14, "text": "Yield: about 4 servings." }
+      ],
+      "steps": [
+        {
+          "sid": 1,
+          "text": "In a large skillet or wok, heat the vegetable oil over high heat. Add the beef and stir-fry until browned, about 2 minutes per side. Remove the beef from the skillet and set it aside."
+        },
+        {
+          "sid": 2,
+          "text": "In the same skillet, add a bit more oil if needed. Stir-fry the onions and tomato wedges until they are slightly tender and have a bit of char, 2 to 3 minutes. Add the soy sauce, vinegar, chopped cilantro, cumin, garlic, aji amarillo pepper, cooked beef and salt and pepper to taste. Cook for an additional 2 minutes to heat through."
+        },
+        {
+          "sid": 3,
+          "text": "Serve the Lomo Saltado over cooked white rice, garnished with French fries and fresh cilantro leaves."
+        }
+      ]
+    },
+    {
       "id": 99,
       "title": "Recipe Template",
       "ingredientsList": [

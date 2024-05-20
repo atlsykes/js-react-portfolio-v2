@@ -25,6 +25,7 @@ const Recipecard = () => {
       listOne.push(
         React.createElement(
           "li",
+          { id: i },
           null,
           recipe[cardNumber].ingredientsList[i].text
         )
@@ -152,6 +153,18 @@ const Recipecard = () => {
               }}
             >
               Instapot Chicha Morada
+            </button>
+            <button
+              type="button"
+              class="list-group-item list-group-item-action list-group-item-info"
+              data-bs-toggle="modal"
+              data-bs-target="#recipeCardModal"
+              onClick={() => {
+                card = 9;
+                buildList(card);
+              }}
+            >
+              Lomo Saltado
             </button>
           </div>
           {/* recipe card modal */}
