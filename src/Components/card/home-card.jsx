@@ -28,18 +28,14 @@ const homecard = () => {
             />
             <span className="press-start-2p-regular">
               <section>
-                <p>Hey there, fellow 80s aficionados!</p>
+                <p>Hey there, welcome to my 80's themed portfolio!</p>
+                <br />
+                <br />
+                <div class="text-bg-primary p-5 fs-2">
+                  FULL-STACK WEB DEVELOPER
+                </div>
+                <br />
                 <p>
-                  I'm rooted in the charming community of Mechanicsville, VA,
-                  where I share life's adventures with my lovely wife and our
-                  amazing son. In my journey through technology and business, I
-                  bring a unique blend of old-school vibes and forward-thinking
-                  strategies.
-                </p>
-
-                <p>
-                  <i>Full-Stack Web Developer</i>
-                  <br />
                   With a Master of Science degree in Technology Management and a
                   wealth of experience coaching agile teams, my path has been a
                   mix of innovation and growth. In the professional arena, I
@@ -57,10 +53,17 @@ const homecard = () => {
                   oriented.
                 </p>
                 <p>
+                  I'm rooted in the charming community of Mechanicsville, VA,
+                  where I share life's adventures with my lovely wife and our
+                  amazing son. In my journey through technology and business, I
+                  bring a unique blend of old-school vibes and forward-thinking
+                  strategies.
+                </p>
+                <p>
                   Beyond the desk, you'll often find me on the pickleball court,
                   honing my skills and enjoying the game at least four times a
                   week around RVA. I’m also avid Steelers fan who lives and
-                  breathes the black and gold. My favorite video game of all
+                  breathes the black and gold. My favorite PC video game of all
                   time is a the timeless classic: Thief - The Dark Project and
                   continue to play fan made missions to this day.
                 </p>
