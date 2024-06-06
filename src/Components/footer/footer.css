@@ -5,5 +5,5 @@
 }
 
 h5 {
-  font-size: 2vw;
+  font-size: max(2vw, 1em);
 }
