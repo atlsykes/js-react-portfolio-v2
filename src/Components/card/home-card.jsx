@@ -32,7 +32,7 @@ const homecard = () => {
                 <br />
                 <br />
                 <div class="text-bg-primary p-5 fs-2">
-                  FULL-STACK WEB DEVELOPER
+                  AGILE SOFTWARE PROFESSIONAL
                 </div>
                 <br />
                 <p>
