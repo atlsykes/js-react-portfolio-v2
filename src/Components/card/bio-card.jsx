@@ -34,8 +34,8 @@ const biocard = () => {
             <span className="press-start-2p-regular">
               <section>
                 <p>
-                  CORE COMPETENCIES: Full-Stack Web Development | Agile Training
-                  & Coaching | New Product (Software) Development
+                  CORE COMPETENCIES: Agile Software Development | Developer &
+                  Consumer Advocacy | Demonstrating Empathy
                   <br />
                   <br />
                   CORPORATE EXPERIENCE:
