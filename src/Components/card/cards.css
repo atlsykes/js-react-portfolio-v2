@@ -16,6 +16,12 @@ h1 {
   font-size: 2vw;
 }
 
+img {
+  max-width: 100%;
+  width: 150px;
+  height: 150px;
+}
+
 p {
   font-size: max(2.25vw, 1.5em);
 }
