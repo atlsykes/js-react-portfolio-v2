@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/js-react-portfolio-v2/static/css/main.e7b310b6.css",
-    "main.js": "/js-react-portfolio-v2/static/js/main.6961c1a8.js",
+    "main.css": "/js-react-portfolio-v2/static/css/main.ee0b0361.css",
+    "main.js": "/js-react-portfolio-v2/static/js/main.5879e5c7.js",
     "static/js/592.d143e1c8.chunk.js": "/js-react-portfolio-v2/static/js/592.d143e1c8.chunk.js",
     "static/media/Insulterator9000-screenshot.png": "/js-react-portfolio-v2/static/media/Insulterator9000-screenshot.cdb2a544c087b89d8ee2.png",
     "static/media/Weather-dashboard-screenshot.png": "/js-react-portfolio-v2/static/media/Weather-dashboard-screenshot.33cadb4762efff41ff84.png",
@@ -18,12 +18,12 @@
     "static/media/C&H_poised_downhill-image.png": "/js-react-portfolio-v2/static/media/C&H_poised_downhill-image.826abf54a931b2d22b3a.png",
     "static/media/test-card-image.jpeg": "/js-react-portfolio-v2/static/media/test-card-image.e7e5d5b8ddeddf34e0e1.jpeg",
     "index.html": "/js-react-portfolio-v2/index.html",
-    "main.e7b310b6.css.map": "/js-react-portfolio-v2/static/css/main.e7b310b6.css.map",
-    "main.6961c1a8.js.map": "/js-react-portfolio-v2/static/js/main.6961c1a8.js.map",
+    "main.ee0b0361.css.map": "/js-react-portfolio-v2/static/css/main.ee0b0361.css.map",
+    "main.5879e5c7.js.map": "/js-react-portfolio-v2/static/js/main.5879e5c7.js.map",
     "592.d143e1c8.chunk.js.map": "/js-react-portfolio-v2/static/js/592.d143e1c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7b310b6.css",
-    "static/js/main.6961c1a8.js"
+    "static/css/main.ee0b0361.css",
+    "static/js/main.5879e5c7.js"
   ]
 }
