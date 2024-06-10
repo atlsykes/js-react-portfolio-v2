@@ -24,7 +24,7 @@ const homecard = () => {
               src={JASNASphoto}
               alt="8-bit of Justin and son Nathan"
               ALIGN="right"
-              class="d-none d-sm-block"
+              // class="d-none d-sm-block"
             />
             <span className="press-start-2p-regular">
               <section>
