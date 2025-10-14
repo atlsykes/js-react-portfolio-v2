@@ -23,7 +23,7 @@ img {
 }
 
 p {
-  font-size: max(2.25vw, 1.5em);
+  font-size: max(2vw, 1.5em);
 }
 .card {
   text-align: center;
