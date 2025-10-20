@@ -34,87 +34,119 @@ const biocard = () => {
             <span className="press-start-2p-regular">
               <section>
                 <p>
-                  CORE COMPETENCIES: Agile Software Development | Developer &
-                  Consumer Advocacy | Demonstrating Empathy
+                  SOFT/ESSENTIAL SKILLS
                   <br />
                   <br />
-                  CORPORATE EXPERIENCE:
+                  Agile Methodologies - Scrum - Kanban - SDLC - Servant
+                  Leadership - Active Listening - Demonstrating Empathy -
+                  Collaboration - Networking - Problem-Solving - Feedback Loops
+                  - Agile Coaching & Training - Mentorship - Data Analysis -
+                  Data Visualization - Performance Metrics - Adaptability -
+                  Passion for Technology - Creativity
+                  <br />
+                  <br />
+                  TOOLING/TECHNICAL SKILLS
+                  <br />
+                  <br />
+                  Jira - Confluence - Visual Studio Code - Git - GitHub - HTML5
+                  - CSS3 - JavaScript (^ES6) - JQuery - Web, Server, 3rd party
+                  API’s - Node.js - MySQL - MongoDB - Reactjs - Visual Studio
+                  Code - Postman - MySQL Workbench
+                  <br />
+                  <br />
+                  CORPORATE EXPERIENCE
+                  <br />
                   <br />
                   <ul>
                     <li>
-                      MOLINA HEALTHCARE, Mechanicsville, VA, 2023 - 2024 -
-                      Senior Scrum Master
+                      VIRGINIA STATE POLICE (CONTRACT),
+                      <em>Scrum Master</em>; North Chesterfield, VA 2024 - 2025
                     </li>
                     <li>
-                      CAPITAL ONE, Richmond, VA, 2021 - 2023 - Principal Agile
-                      Delivery Lead
+                      MOLINA HEALTHCARE (CONTRACT), <em>Senior Scrum Master</em>
+                      ; Mechanicsville, VA 2023 - 2024
                     </li>
                     <li>
-                      GE DIGITAL, Atlanta, GA, 2018 – 2021 Senior Staff
-                      Technical Program Manager, New Product Introduction
+                      CAPITAL ONE, <em>Principal Agile Delivery Lead</em>;
+                      Richmond, VA, 2021 - 2023
                     </li>
                     <li>
-                      GE POWER DIGITAL, Atlanta, GA - Staff Agile Transformer,
-                      2015 – 2018
+                      GE DIGITAL,{" "}
+                      <em>
+                        Senior Staff Technical Program Manager, New Product
+                        Introduction
+                      </em>
+                      ; Atlanta, GA, 2018 – 2021
                     </li>
                     <li>
-                      GE POWER DIGITAL, Atlanta, GA - Program Manager, New
-                      Product Introduction, 2010 – 2014
+                      GE POWER DIGITAL, <em>Staff Agile Transformer</em>;
+                      Atlanta, GA 2015 – 2018
+                    </li>
+                    <li>
+                      GE POWER DIGITAL,{" "}
+                      <em>Program Manager, New Product Introduction</em>;
+                      Atlanta, GA 2010 – 2014
                     </li>
                   </ul>
-                  MILITARY EXPERIENCE:
                   <br />
-                  UNITED STATES NAVY - USS Long Beach (CGN-9), 1989 - 1995 -
-                  Electrician’s Mate, Nuclear Trained
+                  MILITARY EXPERIENCE
                   <br />
                   <br />
-                  EDUCATION & PROFESSIONAL TRAINING:
+                  UNITED STATES NAVY,{" "}
+                  <em>Electrician’s Mate, Nuclear Trained</em>; U.S.S. Long
+                  Beach (CGN-9), 1989 - 1995
+                  <br />
+                  <br />
+                  EDUCATION & PROFESSIONAL TRAINING
+                  <br />
                   <br />
                   <ul>
-                    <li>
-                      SOUTHERN POLYTECHNIC STATE UNIVERSITY, Marietta, GA,
-                      Master of Science (Management of Technology Program)
-                      <li>
-                        THOMAS A. EDISON STATE COLLEGE, Trenton, NJ Bachelor of
-                        Science (BS), Applied Science and Technology in Nuclear
-                        Engineering Technology
-                      </li>
-                    </li>
                     <li>
                       GEORGIA INSTITUTE OF TECHNOLOGY, Atlanta, GA Certificate,
                       Full Stack Flex Web Development Bootcamp
                     </li>
                     <li>
-                      UNITED STATES NAVY NUCLEAR POWER PROGRAM, Orlando, FL;
-                      Goose Creek, SC Electrician’s Mate
+                      SOUTHERN POLYTECHNIC STATE UNIVERSITY, Marietta, GA,
+                      Master of Science (Management of Technology Program)
+                    </li>
+                    <li>
+                      THOMAS A. EDISON STATE COLLEGE, Trenton, NJ Bachelor of
+                      Science (BS), Applied Science and Technology in Nuclear
+                      Engineering Technology
+                    </li>
+                    <li>
+                      UNITED STATES NAVY NUCLEAR POWER PROGRAM, Orlando, FL &
+                      Goose Creek, SC, Electrician’s Mate, Nuclear Trained
                     </li>
                   </ul>
                   <br />
-                  CERTIFICATIONS/IP:
+                  AWARDS/CERTIFICATIONS/IP
+                  <br />
+                  <br />
                   <ul>
                     <li>
-                      AWS Certified Cloud Practitioner, Amazon Web Services
-                      (AWS)
+                      Virginia State Police, Commendation - Rap Back (Plan B)
+                      Implementation, 2025
                     </li>
                     <li>
-                      2022 Full Stack Flex Web Development, Georgia Tech
-                      Professional Education Boot Camp
+                      Full Stack Flex Web Development, Georgia Tech Professional
+                      Education Boot Camp, 2022
                     </li>
-                    2021 Certified Scrum Master (CSM), Trained by Dr. Jeff
-                    Sutherland/Scrum Inc., Scrumalliance.org,
+                    Certified Scrum Master (CSM), Trained by Dr. Jeff
+                    Sutherland/Scrum Inc., Scrumalliance.org, 2016
                     <li>
-                      2016 Certified Scrum Product Owner (CSPO), Trained by Dr.
-                      Jeff Sutherland/Scrum Inc., Scrumalliance.org
-                    </li>
-                    <li>
-                      2016 Project Management Professional, Project Management
-                      Institute, expired 2020
+                      Certified Scrum Product Owner (CSPO), Trained by Dr. Jeff
+                      Sutherland/Scrum Inc., Scrumalliance.org, 2016
                     </li>
                     <li>
-                      US 9019095 B2, Systems and Methods for Integrating Alarm
-                      Processing and Presentation of Alarms for a Power
-                      Generation System, General Electric Company, Pub. Date:
-                      April 28, 2015
+                      Project Management Professional, Project Management
+                      Institute, issued 2016, expired 2020
+                    </li>
+                    <li>
+                      US 9019095 B2 (US Patent), Systems and Methods for
+                      Integrating Alarm Processing and Presentation of Alarms
+                      for a Power Generation System, General Electric Company,
+                      Pub. Date: April 28, 2015
                     </li>
                     <li> Six Sigma Green Belt, General Electric, 2007</li>
                   </ul>
